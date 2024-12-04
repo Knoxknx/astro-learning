@@ -1,48 +1,36 @@
-# Astro Starter Kit: Basics
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" width="200" alt="Nest Logo" /></a>
+</p>
 
-```sh
-npm create astro@latest -- --template basics
+## Descripción
+
+[Curso](https://cursos.devtalles.com/courses/take/Astro//) de AstroJs realizado por el profesor Fernando Herrera desde la plataforma de [Devtalles](https://cursos.devtalles.com/).
+
+## Instalación
+
+```bash
+$ npm install
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Ejecutando la app
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+```bash
+# development
+$ npm run start
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+# watch mode
+$ npm run start:dev
 
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+# production mode
+$ npm run start:prod
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## Acerca de mi
 
-## 🧞 Commands
+Profesional informático con de experiencia en el ámbito del desarrollo de software, me he centrado en la utilización de tecnologías clave como Java/Spring Boot, Node y React para diseñar y desarrollar aplicaciones web y servicios REST.
 
-All commands are run from the root of the project, from a terminal:
+##
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+- Autor - Elias Garcia Carvajal [LinkedIn](www.linkedin.com/in/knoxknx)
+- Profesor - Fernando Herrera [GitHub](https://github.com/Klerith)
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
